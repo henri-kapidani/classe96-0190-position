@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	max-width: 1000px;
+	margin-inline: auto;
+	padding-inline: 1rem;
+}
+
+h1:hover {
+	/* color: salmon; */
+}
+
+.divvone:hover h1 {
+	color: salmon;
+}

@@ -1,0 +1,56 @@
+/* reset */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 1rem;
+}
+
+.container {
+	margin-bottom: 2rem;
+	border: 3px solid lightgray;
+}
+
+.square {
+	border: 3px solid salmon;
+}
+
+.square.small {
+	width: 50px;
+	height: 50px;
+}
+
+.square.big {
+	width: 200px;
+	height: 200px;
+}
+
+.rect.small {
+	width: 350px;
+	height: 200px;
+}
+
+.rect.big {
+	width: 800px;
+	height: 500px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+}
+
+.violet {
+	background-color: violet;
+}
